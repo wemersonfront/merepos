@@ -107,8 +107,9 @@ margin-top: -15rem;
         text-align: center;
         background: rgb(226,226,229);
     background: linear-gradient(273deg, rgba(226,226,229,1) 0%, rgba(207,207,207,1) 100%);
-    height: 115rem;
+    min-height: 115rem;
     font-family: 'Heebo', sans-serif;
+
     }
     
     .Projects #titleProjects{
@@ -142,6 +143,10 @@ margin-top: -15rem;
 
     .containerProjects span{
         font-weight: 600;
+    }
+
+    .project4{
+        margin-bottom: 2rem;
     }
 
     .About{
